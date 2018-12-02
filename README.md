@@ -1,4 +1,4 @@
-# areweextendingyet.github.io
+# [areweextendingyet.github.io](https://areweextendingyet.github.io)
 
 See also [Foreign Function Interface](https://doc.rust-lang.org/book/first-edition/ffi.html),  [The Rust FFI Omnibus](http://jakegoulding.com/rust-ffi-omnibus/) (a collection of examples of using code written in Rust from other languages) and [FFI examples written in Rust](https://github.com/alexcrichton/rust-ffi-examples).
 
