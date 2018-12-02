@@ -52,8 +52,8 @@ See also [Foreign Function Interface](https://doc.rust-lang.org/book/first-editi
   * [rustwasm/wasm-pack](https://github.com/rustwasm/wasm-pack) — :package: :sparkles: pack up the wasm and publish it to npm! [<img src="https://api.travis-ci.org/rustwasm/wasm-pack.svg?branch=master">](https://travis-ci.org/rustwasm/wasm-packn)
   * [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) — A project for facilitating high-level interactions between wasm modules and JS. [<img src="https://api.travis-ci.org/rustwasm/wasm-bindgen.svg?branch=master">](https://travis-ci.org/rustwasm/wasm-bindgen)
   
-  
-  # See also
+
+# See also
   
   - [Are we IDE yet?](https://areweideyet.com/)
   - [Are we (Machine) Learning yet?](https://www.arewelearningyet.com/)
