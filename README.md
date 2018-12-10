@@ -1,4 +1,4 @@
-# [areweextendingyet.github.io](https://areweextendingyet.github.io)
+# [areweextendingyet.github.io](https://areweextendingyet.github.io) - [Contribute](https://github.com/areweextendingyet/areweextendingyet.github.io/)
 
 # Yes, it is possible!
 ### And already happening.
@@ -27,7 +27,6 @@
 
 ### Dart
  Not yet, as [FFI](https://github.com/dart-lang/sdk/issues/34452) is still stabilizing. But it is possible to use Native extensions (Flutter) or WebAssembly/JS for Web.
- * 
 
 ### Erlang
   * [hansihe/Rustler](https://github.com/hansihe/Rustler) — safe Rust bridge for creating Erlang NIF functions [<img src="https://api.travis-ci.org/hansihe/rustler.svg?branch=master">](https://travis-ci.org/hansihe/rustler)
