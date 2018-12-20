@@ -10,6 +10,7 @@
 - 📹 [Hello Rust! #8 - Let's write a Python module! (Tutorial, FFI, pyo3)](https://www.youtube.com/watch?v=D9r__qxtRMQ)
 - 📹 [RustCamp - Using Rust from C... or Any Language by Yehuda Katz](https://www.youtube.com/watch?v=GktVBv76fe0)
 - 📚 [Rust Book: FFI](https://doc.rust-lang.org/book/ffi.html)
+- 📚 [Rust Nomicon: Official FFI Guide](https://doc.rust-lang.org/nomicon/ffi.html)
 - 📚 [The (unofficial) Rust FFI Guide](https://michael-f-bryan.github.io/rust-ffi-guide/overview.html)
 - 📚 [The Rust FFI Omnibus](http://jakegoulding.com/rust-ffi-omnibus/)
 - [FFI examples written in Rust](https://github.com/alexcrichton/rust-ffi-examples)
