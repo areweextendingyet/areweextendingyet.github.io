@@ -9,6 +9,8 @@
 - 📹 [RustConf 2018 - Embedding Rust in C/C++ by Katharina](https://www.youtube.com/watch?v=x9acx2zgx4Q)
 - 📹 [Hello Rust! #8 - Let's write a Python module! (Tutorial, FFI, pyo3)](https://www.youtube.com/watch?v=D9r__qxtRMQ)
 - 📹 [RustCamp - Using Rust from C... or Any Language by Yehuda Katz](https://www.youtube.com/watch?v=GktVBv76fe0)
+- 📹 [RustLatam 2019 - Otavio Pace: Interop with Android, IOS and WASM in the same project](https://www.youtube.com/watch?v=W-HUyTwV4LA]
+- 🎼 [New Rustacean Podcast e031 - FFI Deep dive](https://newrustacean.com/show_notes/e031/index.html)
 - 📚 [Rust Book: FFI](https://doc.rust-lang.org/book/ffi.html)
 - 📚 [Rust Nomicon: Official FFI Guide](https://doc.rust-lang.org/nomicon/ffi.html)
 - 📚 [The (unofficial) Rust FFI Guide](https://michael-f-bryan.github.io/rust-ffi-guide/overview.html)
@@ -16,6 +18,13 @@
 - [FFI examples written in Rust](https://github.com/alexcrichton/rust-ffi-examples)
 - 🔧 [Bindgen](https://rust-lang.github.io/rust-bindgen/) - Automatically generates Rust FFI bindings to C (and some C++) libraries. 
 - 🔧 [Crossgen](https://github.com/yoshuawuyts/crossgen) - Cross compilation template generator 
+
+### Blog posts
+
+- [Cross compiling and statically linking against Rust libraries](https://medium.com/csis-techblog/cross-compiling-and-statically-linking-against-rust-libraries-2c02ee2c01af)
+- [Crossing the Rust FFI frontier with Protocol Buffers](https://hacks.mozilla.org/2019/04/crossing-the-rust-ffi-frontier-with-protocol-buffers/)
+- [What I learned from my failed attempt of writing baremetal android in Rust](https://onatm.dev/2019/04/22/what-i-learned-from-my-failed-attempt-of-writing-baremetal-android-in-rust/)
+- [Using Rust to Scale Elixir for 11 Million Concurrent Users](https://blog.discordapp.com/using-rust-to-scale-elixir-for-11-million-concurrent-users-c6f19fc029d3)
 
 ## Languages
 
@@ -30,7 +39,7 @@
  Not yet, as [FFI](https://github.com/dart-lang/sdk/issues/34452) is still stabilizing. But it is possible to use Native extensions (Flutter) or WebAssembly/JS for Web.
 
 ### Erlang
-  * [hansihe/Rustler](https://github.com/hansihe/Rustler) — safe Rust bridge for creating Erlang NIF functions [<img src="https://api.travis-ci.org/hansihe/rustler.svg?branch=master">](https://travis-ci.org/hansihe/rustler)
+  * [rusterlium/Rustler](https://github.com/rusterlium/rustler) — safe Rust bridge for creating Erlang NIF functions [<img src="https://api.travis-ci.org/rusterlium/rustler.svg?branch=master">](https://travis-ci.org/rusterlium/rustler)
 
 ### Go
   * [rustgo: calling Rust from Go with near-zero overhead](https://blog.filippo.io/rustgo/) - Blog post
