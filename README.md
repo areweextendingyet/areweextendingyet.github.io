@@ -9,7 +9,7 @@
 - 📹 [RustConf 2018 - Embedding Rust in C/C++ by Katharina](https://www.youtube.com/watch?v=x9acx2zgx4Q)
 - 📹 [Hello Rust! #8 - Let's write a Python module! (Tutorial, FFI, pyo3)](https://www.youtube.com/watch?v=D9r__qxtRMQ)
 - 📹 [RustCamp - Using Rust from C... or Any Language by Yehuda Katz](https://www.youtube.com/watch?v=GktVBv76fe0)
-- 📹 [RustLatam 2019 - Otavio Pace: Interop with Android, IOS and WASM in the same project](https://www.youtube.com/watch?v=W-HUyTwV4LA]
+- 📹 [RustLatam 2019 - Otavio Pace: Interop with Android, IOS and WASM in the same project](https://www.youtube.com/watch?v=W-HUyTwV4LA)
 - 🎼 [New Rustacean Podcast e031 - FFI Deep dive](https://newrustacean.com/show_notes/e031/index.html)
 - 📚 [Rust Book: FFI](https://doc.rust-lang.org/book/ffi.html)
 - 📚 [Rust Nomicon: Official FFI Guide](https://doc.rust-lang.org/nomicon/ffi.html)
@@ -52,6 +52,7 @@
   * [mgattozzi/rushs](https://github.com/mgattozzi/rushs) — Haskell in Rust FFI Example
 
 ### Java
+  * [astonbitecode/j4rs](https://github.com/astonbitecode/j4rs) - j4rs stands for 'Java for Rust' and allows effortless calls to Java code, from Rust.
   * [bennettanderson/rjni](https://github.com/benanders/rjni) — use Java from Rust [<img src="https://api.travis-ci.org/bennettanderson/rjni.svg?branch=master">](https://travis-ci.org/GravityScore/RustJNI)
   * [drrb/java-rust-example](https://github.com/drrb/java-rust-example) — use Rust from Java [<img src="https://api.travis-ci.org/drrb/java-rust-example.svg?branch=master">](https://travis-ci.org/drrb/java-rust-example)
   * [kud1ing/rucaja](https://github.com/kud1ing/rucaja) [[rucaja](https://crates.io/crates/rucaja)] — use Java from Rust [<img src="https://api.travis-ci.org/kud1ing/rucaja.svg?branch=master">](https://travis-ci.org/kud1ing/rucaja)
