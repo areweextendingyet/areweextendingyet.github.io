@@ -15,9 +15,14 @@
 - 📚 [Rust Nomicon: Official FFI Guide](https://doc.rust-lang.org/nomicon/ffi.html)
 - 📚 [The (unofficial) Rust FFI Guide](https://michael-f-bryan.github.io/rust-ffi-guide/overview.html)
 - 📚 [The Rust FFI Omnibus](http://jakegoulding.com/rust-ffi-omnibus/)
-- [FFI examples written in Rust](https://github.com/alexcrichton/rust-ffi-examples)
-- 🔧 [Bindgen](https://rust-lang.github.io/rust-bindgen/) - Automatically generates Rust FFI bindings to C (and some C++) libraries. 
-- 🔧 [Crossgen](https://github.com/yoshuawuyts/crossgen) - Cross compilation template generator 
+- 📝 [FFI examples written in Rust](https://github.com/alexcrichton/rust-ffi-examples)
+
+## Tools
+
+- 🔧 [bindgen](https://rust-lang.github.io/rust-bindgen/) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
+- 🔧 [cross](https://github.com/rust-embedded/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates 
+- 🔧 [crossgen](https://github.com/yoshuawuyts/crossgen) - Cross compilation template generator
+- 🔧 [safer_ffi](https://github.com/getditto/safer_ffi) - Write safer FFI code in Rust without polluting it with unsafe code 
 
 ### Blog posts
 
@@ -25,6 +30,8 @@
 - [Crossing the Rust FFI frontier with Protocol Buffers](https://hacks.mozilla.org/2019/04/crossing-the-rust-ffi-frontier-with-protocol-buffers/)
 - [What I learned from my failed attempt of writing baremetal android in Rust](https://onatm.dev/2019/04/22/what-i-learned-from-my-failed-attempt-of-writing-baremetal-android-in-rust/)
 - [Using Rust to Scale Elixir for 11 Million Concurrent Users](https://blog.discordapp.com/using-rust-to-scale-elixir-for-11-million-concurrent-users-c6f19fc029d3)
+- [Creating an FFI-compatible C-ABI library in Rust](https://dev.to/verkkokauppacom/creating-an-ffi-compatible-c-abi-library-in-rust-5dji)
+- [FFI patterns #1 - Complex Rust data structures exposed seamlessly to C++](https://crisal.io/words/2020/02/28/C++-rust-ffi-patterns-1-complex-data-structures.html)
 
 ## Languages
 
@@ -34,9 +41,11 @@
 
 ### C++
   * [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) — a Rust bindings generator
+  * [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++ 
 
 ### Dart
- Not yet, as [FFI](https://github.com/dart-lang/sdk/issues/34452) is still stabilizing. But it is possible to use Native extensions (Flutter) or WebAssembly/JS for Web.
+ * 📚 [How to call a Rust function from Dart using FFI](https://itnext.io/how-to-call-a-rust-function-from-dart-using-ffi-f48f3ea3af2c)
+ * 📚 [Using FFI on Flutter Plugins to run native Rust code](https://medium.com/flutter-community/using-ffi-on-flutter-plugins-to-run-native-rust-code-d64c0f14f9c2)
 
 ### Erlang
   * [rusterlium/Rustler](https://github.com/rusterlium/rustler) — safe Rust bridge for creating Erlang NIF functions [<img src="https://api.travis-ci.org/rusterlium/rustler.svg?branch=master">](https://travis-ci.org/rusterlium/rustler)
