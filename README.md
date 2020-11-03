@@ -78,6 +78,7 @@
 
 ### Node.js
   * [neon-bindings/neon](https://github.com/neon-bindings/neon) — use Rust from Node.js [<img src="https://api.travis-ci.org/neon-bindings/neon.svg?branch=master">](https://travis-ci.org/neon-bindings/neon)
+  * [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A minimal library for building compiled NodeJS add-ons in Rust. ![macOS/Windows/Linux x64](https://github.com/napi-rs/napi-rs/workflows/macOS/Windows/Linux%20x64/badge.svg)
 
 ### Objective-C
   * [SSheldon/rust-objc](https://github.com/SSheldon/rust-objc) — Objective-C Runtime bindings and wrapper for Rust
