@@ -44,7 +44,7 @@
   * [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++ 
 
 ### Dart
- * [flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge)
+ * [flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge) - High-level memory-safe binding generator for Flutter/Dart <-> Rust [![Codacy Badge](https://api.codacy.com/project/badge/Grade/6afbdad19e7245adbf9e9771777be3d7)](https://app.codacy.com/gh/fzyzcjy/flutter_rust_bridge?utm_source=github.com&utm_medium=referral&utm_content=fzyzcjy/flutter_rust_bridge&utm_campaign=Badge_Grade_Settings)
  * 📚 [How to call a Rust function from Dart using FFI](https://itnext.io/how-to-call-a-rust-function-from-dart-using-ffi-f48f3ea3af2c)
  * 📚 [Using FFI on Flutter Plugins to run native Rust code](https://medium.com/flutter-community/using-ffi-on-flutter-plugins-to-run-native-rust-code-d64c0f14f9c2)
 
