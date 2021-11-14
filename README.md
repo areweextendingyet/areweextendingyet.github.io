@@ -39,6 +39,9 @@
   * [rlhunt/cbindgen](https://github.com/eqrion/cbindgen) — generates C header files from Rust source files. Used in Gecko for WebRender [<img src="https://api.travis-ci.org/eqrion/cbindgen.svg?branch=master">](https://travis-ci.org/eqrion/cbindgen)
   * [Sean1708/rusty-cheddar](https://github.com/Sean1708/rusty-cheddar) — generates C header files from Rust source files [<img src="https://api.travis-ci.org/Sean1708/rusty-cheddar.svg?branch=master">](https://travis-ci.org/Sean1708/rusty-cheddar)
 
+### C#
+  * [Diggsey/rnet](https://github.com/Diggsey/rnet) — Easily call into Rust from C# or other .net langauges.
+
 ### C++
   * [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) — a Rust bindings generator
   * [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++ 
