@@ -61,11 +61,6 @@
   * [rure](https://github.com/BurntSushi/rure-go) - Go library using Rust Regex crate
   * [rust + golang](https://github.com/medimatrix/rust-plus-golang)
 
-### Haskell
-  * [mgattozzi/curryrs](https://github.com/mgattozzi/curryrs) — Bridge the gap between Haskell and Rust
-  * [mgattozzi/haskellrs](https://github.com/mgattozzi/haskellrs) — Rust in Haskell FFI Example
-  * [mgattozzi/rushs](https://github.com/mgattozzi/rushs) — Haskell in Rust FFI Example
-
 ### Java
   * [astonbitecode/j4rs](https://github.com/astonbitecode/j4rs) - j4rs stands for 'Java for Rust' and allows effortless calls to Java code, from Rust.
   * [bennettanderson/rjni](https://github.com/benanders/rjni) — use Java from Rust [<img src="https://api.travis-ci.org/bennettanderson/rjni.svg?branch=master">](https://travis-ci.org/GravityScore/RustJNI)
